@@ -128,7 +128,7 @@ def newton_method(func, x_initial):
      """
     # Write code here
     N = 150
-    e = 0.000001
+    e = 10e-6
     x_iterations = []
     f_values = []
     for i in range(N):
