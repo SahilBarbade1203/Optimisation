@@ -22,10 +22,10 @@ Usage
 
 Using the above functions, the gradient and hessian matrix can be obtained as follows:
 
-scss
-Copy code
 delF = compute_gradient(func, x_input)
 del2F = compute_hessian(func, x_input)
+
+
 Skills Acquired
 
 Understanding of gradient and hessian computation
