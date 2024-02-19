@@ -1,4 +1,4 @@
-# Optimisation-
+# Optimisation
 Assignment - 2
 
 Gradient and Hessian Computation Assignment
